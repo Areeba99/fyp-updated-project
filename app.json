@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Seam & Stitch",
+    "slug": "seamstitch",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "myapp",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#000000"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "seam and stitch for ios and android",
+    "githubUrl": "https://github.com/xujajah/FYP-mobile-app"
+  }
+}

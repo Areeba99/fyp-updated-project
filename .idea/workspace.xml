@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be323316-21e5-4bff-b9b6-9f318cd9069f" name="Default Changelist" comment="Fixed new service screen crash.&#10;Added search system.">
+      <change beforePath="$PROJECT_DIR$/.expo/packager-info.json" beforeDir="false" afterPath="$PROJECT_DIR$/.expo/packager-info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.expo/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.expo/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/connection/OrderHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/connection/OrderHandler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/navigation/AuthNavigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/navigation/AuthNavigation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/ProfileScreens/BuyingOrderDetail.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/ProfileScreens/BuyingOrderDetail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/ProfileScreens/BuyingOrdersList.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/ProfileScreens/BuyingOrdersList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/ProfileScreens/MagicMeasurement.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/ProfileScreens/MagicMeasurement.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/ProfileScreens/SellingOrderDetail.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/ProfileScreens/SellingOrderDetail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/ProfileScreens/SellingOrdersList.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/ProfileScreens/SellingOrdersList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/ProfileScreens/ShowServiceDetails.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/ProfileScreens/ShowServiceDetails.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="xujajah &lt;14140007@gift.edu.pk&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1rCgTYvVrKxk4kTFIiPg4oga9Qe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ali\Desktop\fyp\EXPO\assets\images" />
+      <recent name="C:\Users\Ali\Desktop\fyp\EXPO\screens\ProfileScreens" />
+      <recent name="C:\Users\Ali\Desktop\fyp\EXPO\connection" />
+      <recent name="C:\Users\Ali\Desktop\fyp\EXPO\navigation" />
+      <recent name="C:\Users\Ali\Desktop\fyp\EXPO\screens" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ali\Desktop\fyp\EXPO\screens\ProfileScreens" />
+      <recent name="C:\Users\Ali\Desktop\fyp\EXPO\screens\ChatScreens" />
+      <recent name="C:\Users\Ali\Desktop\fyp\EXPO\assets\images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Ali\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be323316-21e5-4bff-b9b6-9f318cd9069f" name="Default Changelist" comment="" />
+      <created>1618485494116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618485494116</updated>
+      <workItem from="1618485495345" duration="14635000" />
+      <workItem from="1618593873043" duration="506000" />
+      <workItem from="1618650730572" duration="1919000" />
+      <workItem from="1618653544837" duration="27982000" />
+      <workItem from="1618687601925" duration="414000" />
+      <workItem from="1618736385307" duration="1010000" />
+      <workItem from="1618758320098" duration="10627000" />
+      <workItem from="1618920513863" duration="2408000" />
+      <workItem from="1618929950798" duration="11611000" />
+      <workItem from="1619068208959" duration="5270000" />
+      <workItem from="1619091259303" duration="1490000" />
+      <workItem from="1619448359808" duration="4996000" />
+      <workItem from="1619453428501" duration="333000" />
+      <workItem from="1619453779291" duration="605000" />
+      <workItem from="1619455017902" duration="856000" />
+      <workItem from="1619456072959" duration="23000" />
+      <workItem from="1619456666121" duration="702000" />
+      <workItem from="1619854246365" duration="19512000" />
+      <workItem from="1619878262937" duration="3310000" />
+      <workItem from="1619950233930" duration="19925000" />
+      <workItem from="1620575820282" duration="5472000" />
+      <workItem from="1620585317088" duration="6999000" />
+      <workItem from="1620639325190" duration="22570000" />
+      <workItem from="1620765709672" duration="266000" />
+      <workItem from="1621029097607" duration="3034000" />
+      <workItem from="1621164343221" duration="3857000" />
+      <workItem from="1621275176929" duration="3255000" />
+      <workItem from="1621363708505" duration="2487000" />
+      <workItem from="1621372271013" duration="272000" />
+      <workItem from="1621403282752" duration="110000" />
+      <workItem from="1621411895395" duration="22000" />
+      <workItem from="1621417016396" duration="151000" />
+      <workItem from="1621418257271" duration="3049000" />
+      <workItem from="1621422575828" duration="19000" />
+      <workItem from="1621426654341" duration="1023000" />
+      <workItem from="1621429341371" duration="762000" />
+      <workItem from="1621498271421" duration="21682000" />
+      <workItem from="1621619811127" duration="4865000" />
+      <workItem from="1621669209364" duration="2632000" />
+      <workItem from="1621671978187" duration="607000" />
+      <workItem from="1621702726488" duration="471000" />
+      <workItem from="1623241066542" duration="2883000" />
+      <workItem from="1623260982469" duration="813000" />
+      <workItem from="1623431875449" duration="268000" />
+      <workItem from="1623602019933" duration="1660000" />
+      <workItem from="1623658426012" duration="1275000" />
+      <workItem from="1623663079004" duration="9990000" />
+      <workItem from="1623750014217" duration="2945000" />
+      <workItem from="1623776238974" duration="4396000" />
+      <workItem from="1624006173353" duration="278000" />
+      <workItem from="1624203436636" duration="2219000" />
+      <workItem from="1624341564543" duration="13193000" />
+      <workItem from="1624354830153" duration="4765000" />
+      <workItem from="1624383078197" duration="12000" />
+      <workItem from="1624703039594" duration="737000" />
+      <workItem from="1624705055472" duration="2033000" />
+      <workItem from="1624730315057" duration="76000" />
+      <workItem from="1624731310743" duration="10000" />
+      <workItem from="1624731344007" duration="12000" />
+      <workItem from="1624805591112" duration="1807000" />
+      <workItem from="1624994215275" duration="945000" />
+      <workItem from="1625043717588" duration="7853000" />
+    </task>
+    <task id="LOCAL-00001" summary="00">
+      <created>1619453952033</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619453952033</updated>
+    </task>
+    <task id="LOCAL-00002" summary="00">
+      <created>1619454224877</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1619454224877</updated>
+    </task>
+    <task id="LOCAL-00003" summary="00">
+      <created>1619863939515</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1619863939515</updated>
+    </task>
+    <task id="LOCAL-00004" summary="orders and local notifications">
+      <created>1620765765634</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1620765765634</updated>
+    </task>
+    <task id="LOCAL-00005" summary="pre evaluation">
+      <created>1621619866162</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1621619866162</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Magic measurements">
+      <created>1623431961235</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1623431961235</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Fixed new service screen crash.&#10;Added search system.">
+      <created>1623784718939</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1623784718939</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fixed new service screen crash.&#10;Added search system.">
+      <created>1624211149854</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1624211149854</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/fyp1" />
+    </ignored-roots>
+    <MESSAGE value="00" />
+    <MESSAGE value="orders and local notifications" />
+    <MESSAGE value="pre evaluation" />
+    <MESSAGE value="Magic measurements" />
+    <MESSAGE value="Fixed new service screen crash.&#10;Added search system." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed new service screen crash.&#10;Added search system." />
+  </component>
+</project>
